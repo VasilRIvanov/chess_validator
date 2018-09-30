@@ -3,3 +3,5 @@
 *.csproj
 Properties/
 packages/
+bin/
+obj/
